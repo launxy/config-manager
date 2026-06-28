@@ -5,13 +5,13 @@ Gestor de archivos de configuración con TUI en la terminal. Guarda rutas de tus
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │ > _                        │  config-manager                                │
-│──────────────────────────  │                                                 │
+│──────────────────────────  │                                                │
 │   hyprland    ~/.config/h  │  Nombre: hyprland                              │
 │   waybar      ~/.config/w  │  Ruta: ~/.config/hypr/hyprland.conf            │
-│   sway        ~/.config/s  │                                                 │
+│   sway        ~/.config/s  │                                                │
 │   nvim        ~/.config/n  │  Enter  → abrir con Codium                     │
 │   zsh         ~/.zshrc     │  d      → eliminar entrada                     │
-│                            │                                                 │
+│                            │                                                │
 ├────────────────────────────┴────────────────────────────────────────────────┤
 │ ↑↓ navegar   Enter abrir   a añadir   d eliminar   ESC limpiar   q salir    │
 └─────────────────────────────────────────────────────────────────────────────┘
